@@ -1,4 +1,6 @@
-### Thomas here!
+# Thomas here!
+
+![Banner](https://yt3.ggpht.com/xns2HYTUwZmDx6-eIS93dvg8hj7eEVdD2w3k95hbzDQncBM9RVPj7DGBPMnRPN3zdCpMVanf=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
 
 Hi. I am a somewhat capable developer with experience in programming everything from Web development to App development creating web apps and desktop applications. If you need something, just let me know and I will see what I can do. My background should give you an idea of what I am capable of.
 
