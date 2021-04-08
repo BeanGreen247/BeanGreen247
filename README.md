@@ -14,6 +14,8 @@ Hi. I am a somewhat capable developer with experience in programming everything 
 
 I love to code and make videos and friends 💙
 
+My current workstation [ZENITH v1.0 (Click me!)](https://docs.google.com/spreadsheets/d/1IEBtFi-vetg2_1y1gZjp09sSFF8HQqGbIKz8jOJb2AQ/edit?usp=sharing)
+
 <a href="https://github.com/BeanGreen247">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeanGreen247&theme=radical" />
 </a>
