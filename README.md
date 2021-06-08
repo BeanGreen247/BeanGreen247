@@ -27,3 +27,5 @@ My current workstation [ZENITH v1.0 (Click me!)](https://docs.google.com/spreads
 <img
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=beangreen247&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
 />
+
+https://profile.codersrank.io/user/beangreen247/
