@@ -8,7 +8,7 @@ Hi. I am a somewhat capable developer with experience in programming everything 
 * [Instagram](https://www.instagram.com/beangreen247/)
 * [LinkedIn](https://www.linkedin.com/in/tom%C3%A1%C5%A1-mozd%C5%99e%C5%88-3382b71a6/)
 * [Main YT](https://www.youtube.com/channel/UCQbA5Nc4oq6uMS2idDWsxkw)
-* [Music YT](https://www.youtube.com/channel/UC_Qo-mebrSPXU7EpkyJfJ0g)
+* [Telegram](https://t.me/beangreen247)
 
 ⚡ Fun fact: ...
 
