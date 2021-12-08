@@ -15,23 +15,7 @@ Hi. I am a somewhat capable developer with experience in programming everything 
 I love to code and make videos and friends 💙
 
 PC Specs
-* MB		- ASUS TUF GAMING B460M-PLUS		
-* CPU		- Intel(R) Core(TM) i5-10500 CPU @ 3.10GHz		
-* GPU		- Sapphire Radeon NITRO+ RX 480 4GB GDDR5		
-* RAM		- Corsair Vengeance LPX Black DDR4 32GB (4x8GB) 3200MHz CL16		
-* SDD0		- Crucial P1 1TB 3D NAND NVMe PCIe M.2 SSD		
-* HDD0/SSD0	- soon		
-* PSU		- FSP HYDRO (K) 700W 80 PLUS Bronze		
-* DISPLAY1	- Samsung SyncMaster 2243nw (1050p@60Hz) 16:10		
-* MOUSE		- Logitech M90 (1000 DPI)		
-* KEYBOARD	- KB Cherry KC 1000		
-* Microphone	- Yenkee YMC 1030 STREAMER		
-* Headphones	- Sencor SEP 275		
-* WEBCAM		- Genius FaceCam 1000X		
-* Graphics tablet	- Genius EasyPen M610X		
-* Gamepad		- Genesis P58		
-* Fans		- 2x Arctic Fan F12 Silent		
-* Case		- SilentiumPC Gladius M35W Pure Black SPC156		
+[Elminster (Workstation/Gaming PC)](https://docs.google.com/spreadsheets/d/19uQ7Fs9SFfrO024Mv6u6forhCZi4dd0EOg7anu3Fknc/edit?usp=sharing)	
 
 <a href="https://github.com/BeanGreen247">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeanGreen247&theme=radical" />
