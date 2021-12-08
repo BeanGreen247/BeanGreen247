@@ -15,7 +15,7 @@ Hi. I am a somewhat capable developer with experience in programming everything 
 I love to code and make videos and friends 💙
 
 PC Specs
-[Elminster (Workstation/Gaming PC)](https://docs.google.com/spreadsheets/d/19uQ7Fs9SFfrO024Mv6u6forhCZi4dd0EOg7anu3Fknc/edit?usp=sharing)	
+* [Elminster (Workstation/Gaming PC)](https://docs.google.com/spreadsheets/d/19uQ7Fs9SFfrO024Mv6u6forhCZi4dd0EOg7anu3Fknc/edit?usp=sharing)	
 
 <a href="https://github.com/BeanGreen247">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeanGreen247&theme=radical" />
