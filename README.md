@@ -1,13 +1,12 @@
 # Thomas here!
 
-Hi. I am a somewhat capable developer with experience in programming everything from Web development to App development creating web apps and desktop applications. If you need something, just let me know and I will see what I can do. My background should give you an idea of what I am capable of.
+~~Hi. I am a somewhat capable developer with experience in programming everything from Web development to App development creating web apps and desktop applications. If you need something, just let me know and I will see what I can do. My background should give you an idea of what I am capable of.~~
+
+DevOps Engineer. Linux/Windows poweruser. Love opensource.
 
 📫 How to reach me: ...
-* [Twitter](https://twitter.com/beangreen247)
+* [Linktree](https://linktr.ee/BeanGreen247)
 * [Slack](https://join.slack.com/t/tomasmozdren/shared_invite/enQtNzAxNTY1Nzg1MDEwLTVhMmQ4YTU5ZGMyZTFlMzc3NTQ0ZTMxMGUzYTYzMzlmZTZmNmU3ZDk5NzdiYzc3MDNiNDZlMGRlZjUwMTdlMDk)
-* [Instagram](https://www.instagram.com/beangreen247/)
-* [LinkedIn](https://www.linkedin.com/in/tom%C3%A1%C5%A1-mozd%C5%99e%C5%88-3382b71a6/)
-* [Main YT](https://www.youtube.com/channel/UCQbA5Nc4oq6uMS2idDWsxkw)
 * [Telegram](https://t.me/beangreen247)
 
 ⚡ Fun fact: ...
