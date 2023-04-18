@@ -74,3 +74,6 @@ class About extends Me
 * [CV](http://beangreen247.xyz/documents/cv.pdf)
 * [Résumé](http://beangreen247.xyz/documents/resume.pdf)
 * [Pearson certificate](http://beangreen247.xyz/documents/pearsoncertificate.pdf)
+
+### Attention please
+So I am in the process of looking for a new job, either Remote or On-Site so If I am a good fit for a role in your company a or a company you work for, plase let me know via LinkedIn
