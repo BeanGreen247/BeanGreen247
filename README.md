@@ -77,3 +77,5 @@ class About extends Me
 
 ### Attention please
 So I am in the process of looking for a new job, either Remote or On-Site so If I am a good fit for a role in your company a or a company you work for, please let me know via LinkedIn or Email or Telegram. Thank you.
+
+[mozdrent@gmail.com](mailto:mozdrent@gmail.com)
