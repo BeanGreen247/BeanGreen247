@@ -75,6 +75,12 @@ class About extends Me
 * [Résumé](http://beangreen247.xyz/documents/resume.pdf)
 * [Pearson certificate](http://beangreen247.xyz/documents/pearsoncertificate.pdf)
 
+Other docs...
+* [Modded GTA ViceCity README](http://beangreen247.xyz/moddedGamesDocs/README_MODDED_GTA_VC.txt)
+* [Pushing Windows 11/10 Pro to its limits](https://docs.google.com/document/d/1CjGxVwnLESVqdD1OwZjAxAjxO6Fh6J_VXPo3jTe8WnA/edit?usp=sharing)
+* [Ultimate Windows 10 Performance optimization guide](https://beangreen247.xyz/ultimatewindowsperformanceoptimization.html)
+* [WINE Performance optimization](https://beangreen247.xyz/wineperformanceoptimization.html)
+
 ### Attention please
 So I am in the process of looking for a new job, either Remote or On-Site so If I am a good fit for a role in your company a or a company you work for, please let me know via LinkedIn or Email or Telegram. Thank you.
 
