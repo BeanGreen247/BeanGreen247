@@ -76,6 +76,7 @@ class About extends Me
 * [Pearson certificate](http://beangreen247.xyz/documents/pearsoncertificate.pdf)
 
 Other docs...
+* [nvs-5400m-arch-linux](https://github.com/BeanGreen247/nvs-5400m-arch-linux)
 * [Modded GTA ViceCity README](http://beangreen247.xyz/moddedGamesDocs/README_MODDED_GTA_VC.txt)
 * [Pushing Windows 11/10 Pro to its limits](https://docs.google.com/document/d/1CjGxVwnLESVqdD1OwZjAxAjxO6Fh6J_VXPo3jTe8WnA/edit?usp=sharing)
 * [Ultimate Windows 10 Performance optimization guide](https://beangreen247.xyz/ultimatewindowsperformanceoptimization.html)
