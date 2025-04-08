@@ -67,7 +67,7 @@ class About extends Me
 
 📫 How to reach me: ...
 * [Linktree](https://linktr.ee/BeanGreen247)
-* [Telegram](https://t.me/mozdrent_work)
+* ~~[Telegram]()~~
 * ~~[Slack]()~~
 
 📚 Docs:...
