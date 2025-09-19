@@ -82,6 +82,51 @@ Other docs...
 * [Ultimate Windows 10 Performance optimization guide](https://beangreen247.xyz/ultimatewindowsperformanceoptimization.html)
 * [WINE Performance optimization](https://beangreen247.xyz/wineperformanceoptimization.html)
 
+---
+### What Projects I've Backed
+
+[![Projects Backed](https://img.shields.io/badge/dynamic/json?url=https://gist.githubusercontent.com/BeanGreen247/9d4390c70565eeda217a4a2e72d33fec/raw/238dfe973e0b6c77e6c432dfdeea9c90780dcea3/sponsored_projects.json&label=projects%20backed&query=$.totals.count)](#)
+[![One-Time Donations](https://img.shields.io/badge/dynamic/json?url=https://gist.githubusercontent.com/BeanGreen247/9d4390c70565eeda217a4a2e72d33fec/raw/238dfe973e0b6c77e6c432dfdeea9c90780dcea3/sponsored_projects.json&label=one-time%20donations&query=$.totals.oneTimeUsd&prefix=$)](#)
+
+<details>
+<summary>Projects supported via GitHub Sponsors</summary>
+  
+* Armbian → [https://github.com/sponsors/armbian?frequency=one-time\&sponsor=BeanGreen247](https://github.com/sponsors/armbian?frequency=one-time&sponsor=BeanGreen247)
+* Thomas Adam (fvwm maintainer) → [https://github.com/sponsors/ThomasAdam?frequency=one-time\&sponsor=BeanGreen247](https://github.com/sponsors/ThomasAdam?frequency=one-time&sponsor=BeanGreen247)
+* coletdjnz (yt-dlp maintainer) → [https://github.com/sponsors/coletdjnz?frequency=one-time\&sponsor=BeanGreen247](https://github.com/sponsors/coletdjnz?frequency=one-time&sponsor=BeanGreen247)
+* Rem0o (FanControl maintainer) → [https://github.com/sponsors/Rem0o?frequency=one-time\&sponsor=BeanGreen247](https://github.com/sponsors/Rem0o?frequency=one-time\&sponsor=BeanGreen247)
+
+</details>
+
+<details>
+<summary>Projects supported via SPI</summary>
+
+* SPI General Donation  
+* Arch Linux  
+* Debian Project Donation  
+* FFmpeg  
+* LibreOffice  
+* MinGW  
+* OpenSSL Foundation  
+* OpenZFS  
+* PostgreSQL General Contribution  
+* systemd  
+
+[Donate via SPI](https://co.clickandpledge.com/advanced/default.aspx?wid=34115)
+
+</details>
+
+<details>
+<summary>Proof of support</summary>
+
+<img width="815" height="598" alt="Snímek obrazovky 2025-09-19 093335" src="https://github.com/user-attachments/assets/a634e78f-f245-43b0-8299-0a54b9efa561" />
+<img width="1088" height="993" alt="Snímek obrazovky 2025-09-19 093058" src="https://github.com/user-attachments/assets/88e414ee-4c7a-422d-9a04-bd1b6c61d9a7" />
+
+
+</details>
+
+---
+
 ~~### Attention please~~
 ~~So I am in the process of looking for a new job, either Remote or On-Site so If I am a good fit for a role in your company a or a company you work for, please let me know via LinkedIn or Email or Telegram. Thank you.~~
 
