@@ -85,8 +85,8 @@ Other docs...
 ---
 ### What Projects I've Backed
 
-[![Projects Backed](https://img.shields.io/badge/dynamic/json?url=https://gist.githubusercontent.com/BeanGreen247/9d4390c70565eeda217a4a2e72d33fec/raw/238dfe973e0b6c77e6c432dfdeea9c90780dcea3/sponsored_projects.json&label=projects%20backed&query=$.totals.count)](#)
-[![One-Time Donations](https://img.shields.io/badge/dynamic/json?url=https://gist.githubusercontent.com/BeanGreen247/9d4390c70565eeda217a4a2e72d33fec/raw/238dfe973e0b6c77e6c432dfdeea9c90780dcea3/sponsored_projects.json&label=one-time%20donations&query=$.totals.oneTimeUsd&prefix=$)](#)
+[![Projects Backed](https://img.shields.io/badge/dynamic/json?url=https://gist.githubusercontent.com/BeanGreen247/9d4390c70565eeda217a4a2e72d33fec/raw/e883d1dd286cd10459b6d1da8644fbf8eed55f66/sponsored_projects.json&label=projects%20backed&query=$.totals.count)](#)
+[![One-Time Donations](https://img.shields.io/badge/dynamic/json?url=https://gist.githubusercontent.com/BeanGreen247/9d4390c70565eeda217a4a2e72d33fec/raw/e883d1dd286cd10459b6d1da8644fbf8eed55f66/sponsored_projects.json&label=one-time%20donations&query=$.totals.oneTimeUsd&prefix=$)](#)
 
 <details>
 <summary>Projects supported via GitHub Sponsors</summary>
