@@ -1,15 +1,5 @@
-# Thomas here!
-<details>
-  <summary>Old bio!</summary>
-  
-  ~~Hi. I am a somewhat capable developer with experience in programming everything from Web development to App development creating web apps and desktop applications. If you need something, just let me know and I will see what I can do. My background should give you an idea of what I am capable of.~~
-  
-</details>
-
-<details>
-  <summary>New bio!</summary>
-  
-DevOps Engineer. Linux/Windows poweruser. Love opensource.
+👋 Hi, I’m Thomas — an **Analytics & Data Platforms Specialist @ ČEZ Distribuce a.s.**
+Linux & Windows power‑user. DevOps mindset. Open‑source advocate with a growing focus on **Ansible automation** and infrastructure analytics.
 
 ```php
 <?php
@@ -18,64 +8,58 @@ namespace TomasMozdren;
 
 class About extends Me
 {
-    public function getCurrentWorkplace(): array
+    public function getCurrentRole(): array
     {
         return [
-            'workplace' => [
-                'company' => 'null',
-                'position' => 'null'         
-            ]
+            'company'  => 'ČEZ Distribuce a.s.',
+            'position' => 'Analytics & Data Platforms Specialist'
         ];
     }
 
-    public function getDailyKnowledge(): array
+    public function getCoreExpertise(): array
     {
         return [
-            Java::class,
-            Jira::class,
-            Confluence::class,
+            Linux::class,
+            Windows::class,
             Git::class,
-            IntelliJ::class,
-            VSCode::class,
-            Php::class,
-            HTML::class,
-            CSS::class,
-            Javascript::class,
+            Ansible::class,
             Python::class,
-            Flask::class,
+            SQL::class,
+            Automation::class,
+            InfrastructureAnalytics::class,
+            DataEngineering::class
         ];
     }
 
-    public function getFutureGoal(): string
+    public function getProfessionalGoal(): string
     {
-        return 'To contribute to open source.';
+        return 'To advance infrastructure automation with Ansible and enhance data-driven operations across platforms.';
     }
-    
-    public function getWebsiteLink(): string
+
+    public function getLinks(): array
     {
-        return 'http://beangreen247.xyz/';
-    }
-    
-    public function getLinkedInLink(): string
-    {
-        return 'https://www.linkedin.com/in/tom%C3%A1%C5%A1-mozd%C5%99e%C5%88-3382b71a6/';
+        return [
+            'Website'   => 'https://beangreen247.xyz/',
+            'LinkedIn'  => 'https://www.linkedin.com/in/tom%C3%A1%C5%A1-mozd%C5%99e%C5%88-3382b71a6/'
+        ];
     }
 }
 ```
 
-</details>
-
-📫 How to reach me: ...
+📫 How to reach me:
 * [Linktree](https://linktr.ee/BeanGreen247)
-* ~~[Telegram]()~~
-* ~~[Slack]()~~
+* 
+* [Email](mailto:mozdrent@gmail.com)
 
-📚 Docs:...
+📚 Documents:
 * [CV](http://beangreen247.xyz/documents/cv.pdf)
 * [Résumé](http://beangreen247.xyz/documents/resume.pdf)
-* [Pearson certificate](http://beangreen247.xyz/documents/pearsoncertificate.pdf)
 
-Other docs...
+💡 Open‑Source & Projects Highlights:
+* Backed and contributed to multiple open‑source projects
+* Focused on building automation solutions and monitoring tools for Proxmox, Linux, and hybrid infrastructure environments
+
+  Other docs...
 * [nvs-5400m-arch-linux](https://github.com/BeanGreen247/nvs-5400m-arch-linux)
 * [Modded GTA ViceCity README](http://beangreen247.xyz/moddedGamesDocs/README_MODDED_GTA_VC.txt)
 * [Pushing Windows 11/10 Pro to its limits](https://docs.google.com/document/d/1CjGxVwnLESVqdD1OwZjAxAjxO6Fh6J_VXPo3jTe8WnA/edit?usp=sharing)
@@ -125,11 +109,3 @@ Other docs...
 
 </details>
 
----
-
-~~### Attention please~~
-~~So I am in the process of looking for a new job, either Remote or On-Site so If I am a good fit for a role in your company a or a company you work for, please let me know via LinkedIn or Email or Telegram. Thank you.~~
-
-I have an email, we can get in touch...
-
-[mozdrent@gmail.com](mailto:mozdrent@gmail.com)
