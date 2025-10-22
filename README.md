@@ -40,21 +40,21 @@ class About:
             }
 
     def to_markdown(self) -> str:
-        md = f"# {self.name}\\n\\n"
-        md += f"**{self.position} @ {self.company}**\\n\\n"
-        md += "## Core expertise\\n"
+        md = f"# {self.name}\n\n"
+        md += f"**{self.position} @ {self.company}**\n\n"
+        md += "## Core expertise\n"
         for item in self.core_expertise:
-            md += f"- {item}\\n"
-        md += f"\\n## Professional goal\\n{self.professional_goal}\\n\\n"
-        md += "## Links\\n"
+            md += f"- {item}\n"
+        md += f"\n## Professional goal\n{self.professional_goal}\n\n"
+        md += "## Links\n"
         for k, v in self.links.items():
-            md += f"- **{k}:** {v}\\n"
-        md += "\\n## Contact\\n"
+            md += f"- **{k}:** {v}\n"
+        md += "\n## Contact\n"
         for k, v in self.contact.items():
-            md += f"- {k}: {v}\\n"
-        md += "\\n## Documents\\n"
+            md += f"- {k}: {v}\n"
+        md += "\n## Documents\n"
         for k, v in self.documents.items():
-            md += f"- **{k}:** {v}\\n"
+            md += f"- **{k}:** {v}\n"
         return md
 
     def to_json(self) -> str:
