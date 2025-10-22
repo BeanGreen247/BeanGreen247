@@ -89,7 +89,6 @@ if __name__ == '__main__':
 
 📫 How to reach me:
 * [Linktree](https://linktr.ee/BeanGreen247)
-* 
 * [Email](mailto:mozdrent@gmail.com)
 
 📚 Documents:
