@@ -87,8 +87,6 @@ if __name__ == '__main__':
     main()
 ```
 
-Try the live Python script here: [OnlineGDB link](https://www.onlinegdb.com/DftMmGS7XR)
-
 📫 How to reach me:
 * [Linktree](https://linktr.ee/BeanGreen247)
 * [Email](mailto:mozdrent@gmail.com)
