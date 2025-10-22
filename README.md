@@ -1,49 +1,90 @@
 👋 Hi, I’m Thomas — an **Analytics & Data Platforms Specialist @ ČEZ Distribuce a.s.**
 Linux & Windows power‑user. DevOps mindset. Open‑source advocate with a growing focus on **Ansible automation** and infrastructure analytics.
 
-```php
-<?php
+```python
+from dataclasses import dataclass, asdict
+import json
+import argparse
 
-namespace TomasMozdren;
+@dataclass
+class About:
+    name: str = "Thomas (Tomáš Mozdřeň)"
+    company: str = "ČEZ Distribuce a.s."
+    position: str = "Analytics & Data Platforms Specialist"
+    core_expertise: list = None
+    professional_goal: str = "To advance infrastructure automation with Ansible and enhance data-driven operations across platforms."
+    links: dict = None
+    contact: dict = None
+    documents: dict = None
 
-class About extends Me
-{
-    public function getCurrentRole(): array
-    {
-        return [
-            'company'  => 'ČEZ Distribuce a.s.',
-            'position' => 'Analytics & Data Platforms Specialist'
-        ];
-    }
+    def __post_init__(self):
+        if self.core_expertise is None:
+            self.core_expertise = [
+                "Linux", "Windows", "Git", "Ansible", "Python", "SQL",
+                "Automation", "Infrastructure Analytics", "Data Engineering"
+            ]
+        if self.links is None:
+            self.links = {
+                "Website": "https://beangreen247.xyz/",
+                "LinkedIn": "https://www.linkedin.com/in/tom%C3%A1%C5%A1-mozd%C5%99e%C5%88-3382b71a6/"
+            }
+        if self.contact is None:
+            self.contact = {
+                "Linktree": "https://linktr.ee/BeanGreen247",
+                "Email": "mozdrent@gmail.com"
+            }
+        if self.documents is None:
+            self.documents = {
+                "CV": "http://beangreen247.xyz/documents/cv.pdf",
+                "Resume": "http://beangreen247.xyz/documents/resume.pdf"
+            }
 
-    public function getCoreExpertise(): array
-    {
-        return [
-            Linux::class,
-            Windows::class,
-            Git::class,
-            Ansible::class,
-            Python::class,
-            SQL::class,
-            Automation::class,
-            InfrastructureAnalytics::class,
-            DataEngineering::class
-        ];
-    }
+    def to_markdown(self) -> str:
+        md = f"# {self.name}\\n\\n"
+        md += f"**{self.position} @ {self.company}**\\n\\n"
+        md += "## Core expertise\\n"
+        for item in self.core_expertise:
+            md += f"- {item}\\n"
+        md += f"\\n## Professional goal\\n{self.professional_goal}\\n\\n"
+        md += "## Links\\n"
+        for k, v in self.links.items():
+            md += f"- **{k}:** {v}\\n"
+        md += "\\n## Contact\\n"
+        for k, v in self.contact.items():
+            md += f"- {k}: {v}\\n"
+        md += "\\n## Documents\\n"
+        for k, v in self.documents.items():
+            md += f"- **{k}:** {v}\\n"
+        return md
 
-    public function getProfessionalGoal(): string
-    {
-        return 'To advance infrastructure automation with Ansible and enhance data-driven operations across platforms.';
-    }
+    def to_json(self) -> str:
+        return json.dumps(asdict(self), indent=2, ensure_ascii=False)
 
-    public function getLinks(): array
-    {
-        return [
-            'Website'   => 'https://beangreen247.xyz/',
-            'LinkedIn'  => 'https://www.linkedin.com/in/tom%C3%A1%C5%A1-mozd%C5%99e%C5%88-3382b71a6/'
-        ];
-    }
-}
+    def headline(self) -> str:
+        return f"{self.name} — {self.position} @ {self.company} — Ansible automation & data platforms"
+
+
+def main():
+    parser = argparse.ArgumentParser(description="Print Thomas's About profile in different formats")
+    parser.add_argument('--json', action='store_true', help='Print JSON output')
+    parser.add_argument('--brief', '--headline', action='store_true', help='Print a one-line headline')
+    args = parser.parse_args()
+
+    about = About()
+
+    if args.brief:
+        print(about.headline())
+        return
+
+    if args.json:
+        print(about.to_json())
+        return
+
+    # default: markdown
+    print(about.to_markdown())
+
+if __name__ == '__main__':
+    main()
 ```
 
 📫 How to reach me:
